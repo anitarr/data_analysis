@@ -1,0 +1,50 @@
+COUNT(*),skin_color,eye_color
+4,fair,brown
+2,tan,brown
+1,"fair, green, yellow",yellow
+1,brown,yellow
+4,grey,black
+12,fair,blue
+2,"silver, red","red, blue"
+2,"green, grey",unknown
+2,grey,gold
+2,"red, blue, white",black
+2,"brown, white","green, yellow"
+1,brown,blue
+8,light,brown
+1,pale,white
+2,"grey, green, yellow",orange
+8,dark,brown
+5,pale,yellow
+5,green,black
+3,brown,brown
+2,dark,blue
+2,pale,orange
+3,white,yellow
+2,orange,black
+2,blue,blue
+2,green,yellow
+4,yellow,blue
+1,gold,yellow
+1,"white, blue",red
+3,light,blue
+1,"white, red",red
+1,fair,blue-gray
+1,unknown,blue
+1,"green-tan, brown",orange
+1,fair,hazel
+1,green,brown
+1,metal,red
+1,green,red
+1,"brown mottle",orange
+1,"mottled green",red
+1,orange,orange
+1,grey,orange
+1,green,orange
+2,"blue, grey",yellow
+1,"grey, red",orange
+1,red,yellow
+1,pale,pink
+1,blue,hazel
+1,"grey, blue",unknown
+1,"white, blue",black

@@ -9,12 +9,16 @@ import seaborn as sns
 
 #Leo los datos del '.parquet'
 df_parquet = pd.read_parquet(r"D:\DATA_Analysis\Arkon_TEST\data2 (1).parquet")
+#Leo mi archivo desde github
+#df_parquet = pd.read_parquet(r"https://raw.githubusercontent.com/anitarr/data_analysis/master/data2%20(1).parquet")
 # Mostrar datos e info del DataFrame
 #print(df_parquet)
 print(df_parquet.info())
 
 #Leo los datos del '.csv'
 df_data1 = pd.read_csv(r"D:\DATA_Analysis\Arkon_TEST\Data1.csv")
+#Leo mi archivo desde github
+#df_data1 = pd.read_csv(r"https://raw.githubusercontent.com/anitarr/data_analysis/master/Data1.csv")
 #Ver datos e info del segundo dataframe
 #print(df_data1)
 print(df_data1.info())
